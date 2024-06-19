@@ -18,8 +18,8 @@ I will split this into both theory and practical knowledge. You do not need to g
 ## Contents
 
 - [Theory](#theory)
-  1. [How an MRI works](#how-an-mri-works)
-  2. [fMRI/The BOLD Signal](#fmri-the-bold-signal)
+  1. [How an MRI works](what_is_an_mri.md)
+  2. [fMRI/The BOLD Signal](fmri_bold_signal.md)
   3. [HRF (Hemodynamic Response Function)](#hrf-hemodynamic-response-function)
   4. [GLM (General Linear Model)](#glm-general-linear-model)
   5. [Neuroanatomy](#neuroanatomy)
