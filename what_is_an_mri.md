@@ -16,6 +16,6 @@ I think it is also helpful to see some of the animations in the videos to reinfo
 </div>
 
  <div style="text-align: center; margin-top: 10px;">
-  <a href="README.html">Home</a>
+  <a href="/fmri-for-beginners/">Home</a>
 </div>
 
