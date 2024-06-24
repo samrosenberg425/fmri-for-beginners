@@ -11,11 +11,17 @@ This video really helps tie together some of the more practical aspects of MRI i
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px">
   <a href="https://www.youtube.com/watch?v=yA65FuSpOMs&list=PLyGKBDfnk-iDVpUGSR_GlDmQrZOS0Lk6k&index=1&t=1s" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 100px;"> fMRI Bootcamp Part 1 - Basics of MRI </a>
 </div>
-<div style="display: flex; justify-content: space-between;">
-  <a href="what_is_an_mri.md">Last Page - (What is an MRI)</a>
+
+ ------------------------------------------------------------------------------------------------
+<div align="center"; margin-top="10px">
   <a href="hrf.md">Next Page - (HRF)</a>
 </div>
 
-<div style="text-align: center; margin-top: 10px;">
-  <a href="home.md">Home</a>
+<div align="center"; margin-top="10px">
+  <a href="README.md">Home</a>
 </div>
+
+<div align="center"; margin-top="10px">
+  <a href="what_is_an_mri.md">Last Page - (What is an MRI)</a>
+</div>
+
