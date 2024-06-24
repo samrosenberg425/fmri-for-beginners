@@ -31,10 +31,10 @@ It is an <u>*unavoidable fact*</u> that you will run into errors/problems when t
 
 
  <div style="display: flex; justify-content: space-between;">
-  <a href="statistics.md">Last Page - (Statistics)</a>
-  <a href="coding.md">Next Page - (Useful Coding Skills) </a>
+  <a href="statistics.html">Last Page - (Statistics)</a>
+  <a href="coding.html">Next Page - (Useful Coding Skills) </a>
 </div>
 
 <div style="text-align: center; margin-top: 10px;">
-  <a href="home.md">Home</a>
+  <a href="/fmri-for-beginners/">Home</a>
 </div>
