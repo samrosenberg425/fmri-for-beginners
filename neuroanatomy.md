@@ -22,14 +22,12 @@ Otherwise, you have a couple options:
 
  
  ------------------------------------------------------------------------------------------------
-<div align="center"; margin-top="10px">
+<div style="display: flex; justify-content: space-between;">
+  <a href="glm.md">Last Page - (GLM)</a>
   <a href="methods.md">Next Page - (Cog Neuro Methods) </a>
 </div>
 
-<div align="center"; margin-top="10px">
-  <a href="README.md">Home</a>
+<div style="text-align: center; margin-top: 10px;">
+  <a href="home.md">Home</a>
 </div>
 
-<div align="center"; margin-top="10px">
-  <a href="glm.md">Last Page - (GLM)</a>
-</div>
