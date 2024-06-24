@@ -18,10 +18,11 @@ Only learn about this if your school gives you a license, otherwise it is not wo
   - [MATLAB for Neuroimagers](#): This tutorial gives you just what you need to be able to use MATLAB for some of the neuroimaging programs that rely on it
   - [MATLAB Onramp](#): This is for those of you who want to go above and beyond. This course will give you a
 
- <div style="display: flex; justify-content: space-between;">
+ ------------------------------------------------------------------------------------------------
+<div align="center"; margin-top="10px">
   <a href="programs.md">Last Page - (Introduction to fMRI Analysis Programs)</a>
 </div>
 
-<div style="text-align: center; margin-top: 10px;">
+<div align="center"; margin-top="10px">
   <a href="README.md">Home</a>
 </div>
