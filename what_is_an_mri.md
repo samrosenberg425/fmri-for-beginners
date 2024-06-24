@@ -12,7 +12,7 @@ I think it is also helpful to see some of the animations in the videos to reinfo
 
 
 <div align="center">
-  <a href="fmri_bold_signal.md">Next Pag(fMRI/The BOLD Signal)</a>
+  <a href="fmri_bold_signal.md">Next Page (fMRI/The BOLD Signal)</a>
 </div>
 
 <div align="center"; margin-top="10px">
