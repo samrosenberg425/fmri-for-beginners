@@ -16,10 +16,10 @@ This video really helps tie together some of the more practical aspects of MRI i
 
 
  <div style="display: flex; justify-content: space-between;">
-  <a href="what_is_an_mri.md">Last Page - (What is an MRI)</a>
-  <a href="hrf.md">Next Page - (HRF)</a>
+  <a href="/what_is_an_mri.md">Last Page - (What is an MRI)</a>
+  <a href="/hrf.md">Next Page - (HRF)</a>
 </div>
 
 <div style="text-align: center; margin-top: 10px;">
-  <a href="README.md">Home</a>
+  <a href="/README.md">Home</a>
 </div>
