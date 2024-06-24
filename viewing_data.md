@@ -12,10 +12,10 @@ When viewing brain data, there are different coordinate systems used. [This arti
 
  ------------------------------------------------------------------------------------------------
  <div style="display: flex; justify-content: space-between;">
-  <a href="unix_basics.md">Last Page - (Unix Basics)</a>
-  <a href="preprocessing.md">Next Page - (Preprocessing) </a>
+  <a href="unix_basics.html">Last Page - (Unix Basics)</a>
+  <a href="preprocessing.html">Next Page - (Preprocessing) </a>
 </div>
 
 <div style="text-align: center; margin-top: 10px;">
-  <a href="home.md">Home</a>
+  <a href="/fmri-for-beginners/">Home</a>
 </div>
