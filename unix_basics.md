@@ -67,11 +67,14 @@ For transferring smaller files that you may need to search for, you can set up a
 
  - **Cons:** Slower, cannot transfer as large files. This is a good choice for small files that you may want to send back or switch quickly with ease, such as with tcsh/bash scripts. This can be easily done on mac or windows using an application such as Termius (which can also be used to interface with the server through the command line).
 
- <div style="display: flex; justify-content: space-between;">
-  <a href="what_is_neuroimaging_data.md">Last Page - (What is Neuroimaging Data)</a>
-  <a href="viewing_data.md">Next Page - (Viewing Data/Drawing VOIs/Lesions) </a>
-</div>
-
-<div style="text-align: center; margin-top: 10px;">
+  <div align="center">
+    <a href="viewing_data.md">Next Page - (Viewing Data/Drawing VOIs/Lesions)</a>
+  </div>
+ 
+<div align="center"; margin-top="10px">
   <a href="home.md">Home</a>
 </div>
+
+  <div align="center">
+    <a href="what_is_neuroimaging_data.md">Last Page - (What is Neuroimaging Data)</a>
+  </div>
