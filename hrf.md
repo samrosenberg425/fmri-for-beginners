@@ -10,10 +10,10 @@ Now that you know what we are measuring, how do we make sense of it? This lectur
  ------------------------------------------------------------------------------------------------
  
  <div style="display: flex; justify-content: space-between;">
-  <a href="glm.md">Last Page - (GLM)</a>
-  <a href="neuroanatomy.md">Next Page - (Neuroanatomy) </a>
+  <a href="glm.html">Last Page - (GLM)</a>
+  <a href="neuroanatomy.html">Next Page - (Neuroanatomy) </a>
 </div>
 
 <div style="text-align: center; margin-top: 10px;">
-  <a href="home.md">Home</a>
+  <a href="/fmri-for-beginners/">Home</a>
 </div>
