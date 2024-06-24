@@ -25,5 +25,5 @@ After going through the above modules, I highly recommend checking out more from
 
 ---
 <div style="text-align: center; margin-top: 10px;">
-  <a href="home.md">Home</a>
+  <a href="./">Home</a>
 </div>
