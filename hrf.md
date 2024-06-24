@@ -17,6 +17,6 @@ Now that you know what we are measuring, how do we make sense of it? This lectur
 </div>
 
 <div align="center"; margin-top="10px">
-  <a href="hrf.md">Last Page - (HRF)</a>
+  <a href="glm.md">Last Page - (GLM)</a>
 </div>
 
