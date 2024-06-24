@@ -20,10 +20,10 @@ Only learn about this if your school gives you a license, otherwise it is not wo
 
  ------------------------------------------------------------------------------------------------
 <div style="text-align: left; margin-top: 10px;">
-   <a href="statistics.md">Last Page - (Intro to fMRI Programs) </a>
+   <a href="statistics.html">Last Page - (Intro to fMRI Programs) </a>
 </div>
 
 
 <div style="text-align: center; margin-top: 10px;">
-  <a href="home.md">Home</a>
+  <a href="/fmri-for-beginners/">Home</a>
 </div>
