@@ -14,10 +14,11 @@ An important note: these files are large. Very very large. While you can do some
 
 
  ------------------------------------------------------------------------------------------------
-<div align="center"; margin-top="10px">
+<div style="text-align: right; margin-top: 10px;">
   <a href="unix_basics.md">Next Page - (Unix Basics) </a>
 </div>
 
-<div align="center"; margin-top="10px">
-  <a href="README.md">Home</a>
+
+<div style="text-align: center; margin-top: 10px;">
+  <a href="home.md">Home</a>
 </div>
