@@ -15,10 +15,10 @@ An important note: these files are large. Very very large. While you can do some
 
  ------------------------------------------------------------------------------------------------
 <div style="text-align: right; margin-top: 10px;">
-  <a href="unix_basics.md">Next Page - (Unix Basics) </a>
+  <a href="unix_basics.html">Next Page - (Unix Basics) </a>
 </div>
 
 
 <div style="text-align: center; margin-top: 10px;">
-  <a href="home.md">Home</a>
+  <a href="/fmri-for-beginners/">Home</a>
 </div>
