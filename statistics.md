@@ -26,10 +26,10 @@ Below, the most important topics are listed. In parentheses will be  the corresp
 - [Activity #7 - Associations between variables - moderation and mediation](https://jamilfelipe.github.io/psych596/activities/moderation-mediation/r_docs/moderation-mediation-instructions-r.html)
 
  <div style="display: flex; justify-content: space-between;">
-  <a href="data_management.md">Last Page - (Data Management)</a>
-  <a href="programs.md">Next Page - (Introduction to fMRI Analysis Programs) </a>
+  <a href="data_management.html">Last Page - (Data Management)</a>
+  <a href="programs.html">Next Page - (Introduction to fMRI Analysis Programs) </a>
 </div>
 
 <div style="text-align: center; margin-top: 10px;">
-  <a href="home.md">Home</a>
+  <a href="/fmri-for-beginners/">Home</a>
 </div>
