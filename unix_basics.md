@@ -68,10 +68,10 @@ For transferring smaller files that you may need to search for, you can set up a
 
  ------------------------------------------------------------------------------------------------
  <div style="display: flex; justify-content: space-between;">
-    <a href="what_is_neuroimaging_data.md">Last Page - (What is Neuroimaging Data)</a>
-    <a href="viewing_data.md">Next Page - (Viewing Data/Drawing VOIs/Lesions)</a>
+    <a href="what_is_neuroimaging_data.html">Last Page - (What is Neuroimaging Data)</a>
+    <a href="viewing_data.html">Next Page - (Viewing Data/Drawing VOIs/Lesions)</a>
 </div>
 
 <div style="text-align: center; margin-top: 10px;">
-  <a href="home.md">Home</a>
+  <a href="/fmri-for-beginners/">Home</a>
 </div>
