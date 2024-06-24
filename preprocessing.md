@@ -16,15 +16,12 @@ This video(first bullet) gives a detailed but, brief overview of what goes into 
 [fMRI and Artifact computation and Analysis](https://iopscience.iop.org/article/10.1088/1742-6596/1818/1/012083/pdf) by Nasser et al. does a great job of describing these concepts in a way that is easily understandable for someone new to the field. 
 
  ------------------------------------------------------------------------------------------------
-<div align="center"; margin-top="10px">
+ <div style="display: flex; justify-content: space-between;">
+  <a href="viewing_data.md">Last Page - (Viewing Data)</a>
   <a href="coding.md">Next Page - (Useful Coding Skills) </a>
 </div>
 
-<div align="center"; margin-top="10px">
-  <a href="README.md">Home</a>
-</div>
-
-<div align="center"; margin-top="10px">
-  <a href="viewing_data.md">Last Page - (Viewing Data)</a>
+<div style="text-align: center; margin-top: 10px;">
+  <a href="home.md">Home</a>
 </div>
 
