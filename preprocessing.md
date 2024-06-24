@@ -17,11 +17,11 @@ This video(first bullet) gives a detailed but, brief overview of what goes into 
 
  ------------------------------------------------------------------------------------------------
  <div style="display: flex; justify-content: space-between;">
-  <a href="viewing_data.md">Last Page - (Viewing Data)</a>
-  <a href="data_management.md">Next Page - (Data Management Basics) </a>
+  <a href="viewing_data.html">Last Page - (Viewing Data)</a>
+  <a href="data_management.html">Next Page - (Data Management Basics) </a>
 </div>
 
 <div style="text-align: center; margin-top: 10px;">
-  <a href="home.md">Home</a>
+  <a href="/fmri-for-beginners/">Home</a>
 </div>
 
