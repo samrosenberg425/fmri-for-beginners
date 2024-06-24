@@ -13,9 +13,9 @@ There will be more modules added to the theory section, but by now you should ha
 
  ------------------------------------------------------------------------------------------------
 <div style="text-align: left; margin-top: 10px;">
-  <a href="neuroanatomy.md">Last Page - (Neuroanatomy)</a>
+  <a href="neuroanatomy.html">Last Page - (Neuroanatomy)</a>
 </div>
 
 <div style="text-align: center; margin-top: 10px;">
-  <a href="home.md">Home</a>
+  <a href="/fmri-for-beginners/">Home</a>
 </div>
