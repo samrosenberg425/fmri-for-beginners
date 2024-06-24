@@ -21,5 +21,5 @@ This video really helps tie together some of the more practical aspects of MRI i
 </div>
 
 <div style="text-align: center; margin-top: 10px;">
-  <a href="fmri-for-beginners.html">Home</a>
+  <a href="/fmri-for-beginners/">Home</a>
 </div>
