@@ -24,6 +24,6 @@ After going through the above modules, I highly recommend checking out more from
   - [MITCBMM: Functional MRI of the Human Brain, Dr. Idan Blank (Used for HRF)](https://www.youtube.com/playlist?list=PLyGKBDfnk-iA2c90e62zJTwIrCh7T1Y_I)
 
 ---
-<div align="center"; margin-top="10px">
-  <a href="README.md">Home</a>
+<div style="text-align: center; margin-top: 10px;">
+  <a href="home.md">Home</a>
 </div>
