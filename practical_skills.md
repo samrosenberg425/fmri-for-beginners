@@ -25,5 +25,5 @@ After going through these modules, you will be able to work under the supervisio
 
 
 <div style="text-align: center; margin-top: 10px;">
-  <a href="home.md">Home</a>
+  <a href="/fmri-for-beginners/">Home</a>
 </div>
