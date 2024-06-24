@@ -4,12 +4,10 @@ As previously mentioned, the server (aka other computer) is where the data is mo
 
 Luckily, you only need to know the very basics. That is, how to use the terminal to get to the necessary files and launch whatever programs you will use to analyze or view the data. With that being said, you can follow tutorial 1 & 2 only in this [Linux tutorial](https://www.ee.surrey.ac.uk/Teaching/Unix/) (but it is always better to do the rest - except tutorial 7, you can skip that).
 
-## UNIX Tutorial for Beginners
-
-There is always more helpful, useful information to learn about using Linux (aka the rest of the tutorial), but this covers the essentials. Regardless of if you chose to learn more, here are a couple of little helpful tips:
-
-- When typing out a file path, if you use the tab button, it will autocomplete the directory/file name.
-- If you add `&` after a command that launches a program with a GUI (aka a new window), it will allow you to continue to use the command line. Otherwise, you have to close the program before being able to use that terminal again (although you can always open up a new one).
+> [!TIP]
+> There is always more helpful, useful information to learn about using Linux (aka the rest of the tutorial), but this covers the essentials. Regardless of if you chose to learn more, here are a couple of little helpful tips:
+> - When typing out a file path, if you use the tab button, it will autocomplete the directory/file name.
+> - If you add `&` after a command that launches a program with a GUI (aka a new window), it will allow you to continue to use the command line. Otherwise, you have to close the program before being able to use that terminal again (although you can always open up a new one).
 
 It is also important to note that Unix has different shells (tcsh, bash, csh, etc.). They all do the same things essentially, but with different syntax. From what I have seen, bash and tcsh/csh seem to be the most common among neuroimaging programs.
 
@@ -67,14 +65,16 @@ For transferring smaller files that you may need to search for, you can set up a
 
  - **Cons:** Slower, cannot transfer as large files. This is a good choice for small files that you may want to send back or switch quickly with ease, such as with tcsh/bash scripts. This can be easily done on mac or windows using an application such as Termius (which can also be used to interface with the server through the command line).
 
-  <div align="center">
-    <a href="viewing_data.md">Next Page - (Viewing Data/Drawing VOIs/Lesions)</a>
-  </div>
- 
+
+ ------------------------------------------------------------------------------------------------
 <div align="center"; margin-top="10px">
-  <a href="home.md">Home</a>
+    <a href="viewing_data.md">Next Page - (Viewing Data/Drawing VOIs/Lesions)</a>
 </div>
 
-  <div align="center">
+<div align="center"; margin-top="10px">
+  <a href="README.md">Home</a>
+</div>
+
+<div align="center"; margin-top="10px">
     <a href="what_is_neuroimaging_data.md">Last Page - (What is Neuroimaging Data)</a>
-  </div>
+</div>
