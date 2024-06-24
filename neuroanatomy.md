@@ -23,11 +23,11 @@ Otherwise, you have a couple options:
  
  ------------------------------------------------------------------------------------------------
 <div style="display: flex; justify-content: space-between;">
-  <a href="glm.md">Last Page - (GLM)</a>
-  <a href="methods.md">Next Page - (Cog Neuro Methods) </a>
+  <a href="glm.html">Last Page - (GLM)</a>
+  <a href="methods.html">Next Page - (Cog Neuro Methods) </a>
 </div>
 
 <div style="text-align: center; margin-top: 10px;">
-  <a href="home.md">Home</a>
+  <a href="/fmri-for-beginners/">Home</a>
 </div>
 
