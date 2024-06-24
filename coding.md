@@ -23,5 +23,5 @@ Only learn about this if your school gives you a license, otherwise it is not wo
 </div>
 
 <div style="text-align: center; margin-top: 10px;">
-  <a href="home.md">Home</a>
+  <a href="README.md">Home</a>
 </div>
