@@ -12,11 +12,12 @@ Just to clarify, the data comes off of the scanner in the DICOM format (i.e., wh
 
 An important note: these files are large. Very very large. While you can do some small projects using a good amount of .nii files on your local computer, most large projects store their data on a server that can be accessed remotely (or not in some cases). For anyone not familiar with computers, you are basically logging into another computer that is somewhere else from your computer. This can be done in a number of ways that I will save for another time.
 
- <div style="display: flex; justify-content: space-between;">
-  <a>
+
+ ------------------------------------------------------------------------------------------------
+<div align="center"; margin-top="10px">
   <a href="unix_basics.md">Next Page - (Unix Basics) </a>
 </div>
 
-<div style="text-align: center; margin-top: 10px;">
-  <a href="home.md">Home</a>
+<div align="center"; margin-top="10px">
+  <a href="README.md">Home</a>
 </div>
