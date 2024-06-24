@@ -4,7 +4,7 @@ A complete course to learn both practical skills and theory involved in fMRI res
 
 **By Sam Rosenberg**
 
-With contributions from Cory McCabe
+*With contributions from Cory McCabe*
 
 I am creating this “course” for someone new to/interested in this field to be able to both:
 - Gain practical skills to use for research 
