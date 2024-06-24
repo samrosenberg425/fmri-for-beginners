@@ -33,7 +33,7 @@ I will split this into both theory and practical knowledge. You do not need to g
   3. [Viewing Data/Drawing VOIs/Lesions](viewing_data.md)
   4. [Preprocessing Data](preprocessing.md)
   5. [Data Management Basics](data_management.md)
-  6. [Statistics](statistics.nd)
+  6. [Statistics](statistics.md)
   7. [Introduction To fMRI Analysis Programs](programs.md)
      - [Troubleshooting](programs.md)
   8. [Useful Coding Skills](coding.md)
