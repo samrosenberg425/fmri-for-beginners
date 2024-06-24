@@ -8,15 +8,12 @@ Now that you know what we are measuring, how do we make sense of it? This lectur
 
 
  ------------------------------------------------------------------------------------------------
-<div align="center"; margin-top="10px">
+ 
+ <div style="display: flex; justify-content: space-between;">
+  <a href="glm.md">Last Page - (GLM)</a>
   <a href="neuroanatomy.md">Next Page - (Neuroanatomy) </a>
 </div>
 
-<div align="center"; margin-top="10px">
-  <a href="README.md">Home</a>
+<div style="text-align: center; margin-top: 10px;">
+  <a href="home.md">Home</a>
 </div>
-
-<div align="center"; margin-top="10px">
-  <a href="glm.md">Last Page - (GLM)</a>
-</div>
-
