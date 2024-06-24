@@ -2,8 +2,9 @@
 
 A complete course to learn both practical skills and theory involved in fMRI research.
 
-By Sam Rosenberg  
-Heavily borrowing material from Cory McCabe, and relying heavily on lectures provided through MIT Free Open Courseware, tutorials from Andy’s Brain Book, and various other sources
+**By Sam Rosenberg**
+
+With contributions from Cory McCabe
 
 I am creating this “course” for someone new to/interested in this field to be able to both:
 - Gain practical skills to use for research 
