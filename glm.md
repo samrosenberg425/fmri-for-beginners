@@ -9,7 +9,7 @@ The general linear model is the same linear model used for regression in statist
 ------------------------------------------------------------------------------------------------
 
  <div style="display: flex; justify-content: space-between;">
-  <a href="fmri_bold_signal.md">Last Page - (fMRI/The BOLD Signal)</a>
+  <a href="fmri_bold_signal.html">Last Page - (fMRI/The BOLD Signal)</a>
   <a href="hrf.html">Next Page - (HRF) </a>
 </div>
 
