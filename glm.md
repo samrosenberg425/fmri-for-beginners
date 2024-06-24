@@ -9,7 +9,7 @@ The general linear model is the same linear model used for regression in statist
 ------------------------------------------------------------------------------------------------
 
 <div align="center"; margin-top="10px">
-  <a href="neuroanatomy.md">Next Page - (GLM) </a>
+  <a href="hrf.md">Next Page - (HRF) </a>
 </div>
 
 <div align="center"; margin-top="10px">
