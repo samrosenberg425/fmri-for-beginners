@@ -9,10 +9,10 @@ This is something that I am sure is done differently no matter which lab you are
 At the end of the day, my best piece of advice for finding artifacts is to trust your gut and make sure you are actively paying attention when checking data(which you should be doing regardless, but you need to really be attentive to catch the small things). If something doesn’t look right, it probably isn’t. Your intuition for this will get better with time and experience. Don’t be afraid to annoy your superiors asking if something is an artifact(which they may not appreciate) since trying to identify it yourself is the best practice. 
 
  <div style="display: flex; justify-content: space-between;">
-  <a href="preprocessing.md">Last Page - (Preprocessing)</a>
-  <a href="statistics.md">Next Page - (Statistics) </a>
+  <a href="preprocessing.html">Last Page - (Preprocessing)</a>
+  <a href="statistics.html">Next Page - (Statistics) </a>
 </div>
 
 <div style="text-align: center; margin-top: 10px;">
-  <a href="home.md">Home</a>
+  <a href="/fmri-for-beginners/">Home</a>
 </div>
