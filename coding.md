@@ -19,10 +19,11 @@ Only learn about this if your school gives you a license, otherwise it is not wo
   - [MATLAB Onramp](#): This is for those of you who want to go above and beyond. This course will give you a
 
  ------------------------------------------------------------------------------------------------
-<div align="center"; margin-top="10px">
-  <a href="programs.md">Last Page - (Introduction to fMRI Analysis Programs)</a>
+<div style="text-align: left; margin-top: 10px;">
+   <a href="statistics.md">Last Page - (Intro to fMRI Programs) </a>
 </div>
 
-<div align="center"; margin-top="10px">
-  <a href="README.md">Home</a>
+
+<div style="text-align: center; margin-top: 10px;">
+  <a href="home.md">Home</a>
 </div>
