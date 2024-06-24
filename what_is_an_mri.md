@@ -11,12 +11,11 @@ I think it is also helpful to see some of the animations in the videos to reinfo
 - **[Super In Detail For the Engineers](https://www.youtube.com/watch?v=FCr2tn4yTBI)**: Unless you have a strong physics and mathematics background and a few hours time, don’t bother torturing yourself with this. This is very in detail on the mechanisms/equations that drive how an MRI is taken.
 
 
-<div align="center">
+<div style="text-align: left; margin-top: 10px;">
   <a href="fmri_bold_signal.md">Next Page (fMRI/The BOLD Signal)</a>
 </div>
 
-<div align="center"; margin-top="10px">
+ <div style="text-align: center; margin-top: 10px;">
   <a href="README.md">Home</a>
 </div>
 
- 
