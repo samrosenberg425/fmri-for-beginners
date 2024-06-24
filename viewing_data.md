@@ -11,15 +11,11 @@ Now there are several different ways to do this, but I personally prefer using M
 When viewing brain data, there are different coordinate systems used. [This article](https://www.fieldtriptoolbox.org/faq/coordsys/) covers all of them, but the most important ones (again, just in my opinion) to be familiar with are probably MNI, NIfTI, RAS, and FreeSurfer.
 
  ------------------------------------------------------------------------------------------------
-<div align="center"; margin-top="10px">
+ <div style="display: flex; justify-content: space-between;">
+  <a href="unix_basics.md">Last Page - (Unix Basics)</a>
   <a href="preprocessing.md">Next Page - (Preprocessing) </a>
 </div>
 
-<div align="center"; margin-top="10px">
-  <a href="README.md">Home</a>
+<div style="text-align: center; margin-top: 10px;">
+  <a href="home.md">Home</a>
 </div>
-
-<div align="center"; margin-top="10px">
-  <a href="unix_basics.md">Last Page - (Unix Basics)</a>
-</div>
-
