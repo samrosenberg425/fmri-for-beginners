@@ -2,7 +2,7 @@
 
 If you bet that I was going to actually be the one writing all of this material, then you would probably lose that bet. This article does a good job at explaining how an MRI works and if a lot of it doesn’t make sense, that is okay for now. You do not need to be an MRI physicist by the end of this but just have a basic idea of how it works. 
 
-[Magnetic resonance imaging (MRI) (article) | Khan Academy](https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/magnetic-resonance-imaging-mri)
+**[Magnetic resonance imaging (MRI) (article) - Khan Academy](https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/magnetic-resonance-imaging-mri)**
 
 I think it is also helpful to see some of the animations in the videos to reinforce the concepts. For this part I’m going to give some options in level of detail/modality here (listed increasing).
 
