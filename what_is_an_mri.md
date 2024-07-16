@@ -6,9 +6,9 @@ If you bet that I was going to actually be the one writing all of this material,
 
 I think it is also helpful to see some of the animations in the videos to reinforce the concepts. For this part I’m going to give some options in level of detail/modality here (listed increasing).
 
-- **[MRI in 10 Minutes!](https://www.youtube.com/watch?v=2q1IFBwyTqY)** This is all you need. It can give you a basic idea of how exactly an MRI works. Since it would be pretty embarrassing to say you work with MRIs but when asked how they work, have no idea and pretend you do until you cave and admit to them you just work with the data and don’t know…who would ever get caught in that situation? 
-- **[MRI in Just Under 10 Minutes!](https://www.youtube.com/watch?v=_sBIK2t5A3I)** This is a slightly less fun version of the video above, but it does do a better job at explaining the physics behind MRIs which for anyone who’s more of a math/science type of student.
-- **[Super In Detail For the Engineers](https://www.youtube.com/watch?v=FCr2tn4yTBI)**: Unless you have a strong physics and mathematics background and a few hours time, don’t bother torturing yourself with this. This is very in detail on the mechanisms/equations that drive how an MRI is taken.
+- **[MRI in 10 Minutes!](https://youtu.be/jLnuPKhKXVM?si=K08V18WdL5oLSaco)** This is all you need. It can give you a basic idea of how exactly an MRI works. Since it would be pretty embarrassing to say you work with MRIs but when asked how they work, have no idea and pretend you do until you cave and admit to them you just work with the data and don’t know…who would ever get caught in that situation? 
+- **[MRI in Just Under 10 Minutes!](https://youtu.be/1Ku6-uXw7Ag?si=eUFo5yEXmpEOQl4f)** This is a slightly less fun version of the video above, but it does do a better job at explaining the physics behind MRIs which for anyone who’s more of a math/science type of student.
+- **[Super In Detail For the Engineers](https://youtube.com/playlist?list=PLkSVzqeK5v2C4X1G3IuRUQeNveNGNxZrn&si=2QvvOv37GIvj9gUC)**: Unless you have a strong physics and mathematics background and a few hours time, don’t bother torturing yourself with this. This is very in detail on the mechanisms/equations that drive how an MRI is taken.
 
 
 <div style="text-align: left; margin-top: 10px;">
