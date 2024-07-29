@@ -1,6 +1,6 @@
 # How an MRI works
 
-MRI stands Magnetic Resonance Imaging, which probably doesn't mean much to you now but will by the end of this module! 
+MRI stands for **Magnetic Resonance Imaging**, which probably doesn't mean much to you now but will by the end of this module! 
 
 If you bet that I was going to actually be the one writing all of this material, then you would probably lose that bet. This article does a good job at explaining how an MRI works and if a lot of it doesn’t make sense, that is *okay*. You do *not* need to be an MRI physicist by the end of this but just have a basic idea of how we go from putting a person in the scanner to looking a pretty image of their brain:
 
@@ -11,6 +11,9 @@ Now that you have read some about how an MRI works, these videos are great for r
 - **[MRI in 10 Minutes!](https://youtu.be/jLnuPKhKXVM?si=K08V18WdL5oLSaco)** This is all you need. It can give you a basic idea of how exactly an MRI works. Since it would be pretty embarrassing to say you work with MRIs but when asked how they work, have no idea and pretend you do until you cave and admit to them you just work with the data and don’t know…who would ever get caught in that situation? 
 - **[MRI in Just Under 10 Minutes!](https://youtu.be/1Ku6-uXw7Ag?si=eUFo5yEXmpEOQl4f)** This is a slightly less fun version of the video above, but it does do a better job at explaining the physics behind MRIs which for anyone who’s more of a math/science type of student.
 - **[Super In Detail For the Engineers](https://youtube.com/playlist?list=PLkSVzqeK5v2C4X1G3IuRUQeNveNGNxZrn&si=2QvvOv37GIvj9gUC)**: Unless you have a strong physics and mathematics background and a few hours time, don’t bother torturing yourself with this. This is very in detail on the mechanisms/equations that drive how an MRI is taken.
+
+MRI is a very useful imaging modality since it *does not* expose the subject to any form of radiation like some other imaging modalities such as PET, CT, and X-Rays. Not only that, but it offers a good combination of spatial resolution (how small of pieces we can cut the image up into - think about a youtube video in 360p vs. 1080p for low vs. high spatial resolution) and temporal resolution (how many close in time we can take each scan). While MRI is a very versatile tool for imaging, some other important imaging methods such as EEG, MEG, and PET scans are also used and each has their own pros and cons. As you continue to learn, you will see that some imaging methods are better suited for some types of studies. 
+
 
 
 <div style="text-align: left; margin-top: 10px;">
