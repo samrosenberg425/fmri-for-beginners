@@ -1,5 +1,12 @@
 # fMRI/The BOLD Signal
-We now go from structural to functional. While you may not find this video to be the most exhilarating, it is packed with useful information and very well done. This covers all of the basics in measuring the bold signal, HRF, and factors that can affect scans.
+Now that you are all at least semi-pros on how MRI physics work, we can now go from structural to functional. Functional Magnetic Resonance Imaging(fMRI) works almost the same as structural MRI, but images are taken more frequently to improve temporal resolution. 
+
+with some key differences:
+1. Shorter repetition times(TR)
+2. Lower temporal resolution
+   
+
+While you may not find this video to be the most exhilarating, it is packed with useful information and very well done. This covers all of the basics in measuring the bold signal, HRF, and factors that can affect scans.
 
 <div align="center" margin-bottom="80">
     <a href="https://youtu.be/jG2WQpgpnMs?si=l3bg7cT2EGPDXMgC" border="10" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 100px;"> Principles of fMRI Part 1, Module 8: fMRI Signal & BOLD Physiology </a>
