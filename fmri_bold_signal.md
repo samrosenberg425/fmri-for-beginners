@@ -14,7 +14,6 @@ Now that you are all at least semi-pros on how MRI physics work, we can now go f
 - We can use these images to see what parts of the brain are active at certain times during the scan (indirectly using the signal from the blood flow, or BOLD signal) 
 ------------------------------
 fMRI works almost the same as structural MRI, but has two key differences:
-
 1. Images are taken more frequently to improve temporal resolution
    - So instead of an image taken every minute, an image would be taken every couple of seconds
 2. There is lower spatial resolution
