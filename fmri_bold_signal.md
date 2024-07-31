@@ -1,19 +1,22 @@
 # fMRI/The BOLD Signal
-Now that you are all at least semi-pros on how MRI physics work, we can now go from structural to functional. Functional Magnetic Resonance Imaging(fMRI) is how we know what parts of the brain are active at certain times in the scanner. 
-*How can we take a picture and tell what parts of the brain are active?* Well for starters, you can't do this with the naked eye. If you look at a montage of fMRI images, you will likely see a heterogenous gray blob on your screen that doesn't look like much of anything, but little do you know, it has everything. We just need to use very complicated computer programs to see it for us. 
 
-The **Blood Oxygenation Level Dependent (BOLD) Signal** is how we are able to see what parts of the brain are active. This sounds intimidating, but only before someone like me can explain it in the most simplistic terms. So here is how it works:
-- Different parts of your brain are active for different tasks, and when you go from doing nothing to doing something, those regions go from inactive to active
-- Neurons use a lot of glucose and oxygen, so as soon as they become active, they need more glucose and oxygen
+Now that you are all at least semi-pros on how MRI physics work, we can now go from structural to functional. Functional Magnetic Resonance Imaging(fMRI) is the same as MRI, but used to track changes in the brain activity over a short time period. 
+*How can we take a picture and tell what parts of the brain are active?* Well for starters, you can't do this with the naked eye. If you look at a montage of fMRI images, you will likely see a heterogenous gray blob on your screen that looks closer to a Rorsharch Test than a brain, but little do you know, it has everything we need . We just need to use very complicated computer programs to see it for us. 
+
+*What exactly are these programs seeing for us?* The **Blood Oxygenation Level Dependent (BOLD) Signal** of course! The BOLD signal shows changes in blood flow in volume in certain areas, which is used as an *indirect indicator* of neural activity. *But neurons use electrochemical signals not blood, right?* Yes, that is correct. However, our neurons are energy powerhouses that use a *lot* of glucose and oxygen, so when a neuron goes from inactive to active, it needs some way to get more of these nutrients that it is quickly using. Luckily, our bodies are very smart, efficient machines. In order to provide the necessary amount of glucose and oxygen to those neurons, the brain redirects more bloodflow to areas those areas. The opposite goes for areas that are not active; they receieve less bloodflow. 
+
+
+***This is the above information in simpler terms*** 
+- Different parts of your brain are active for different tasks, and when you go from doing *nothing* to doing *something*, certain regions go from inactive to active(aka neurons go from not firing, to firing)
+- Neurons use a lot of glucose and oxygen, so as soon as they become active, they need a lot more glucose and oxygen
 - These molecules are transported through the blood and our bodies are smart, so to solve this problem, blood flow will be redirected to brain regions that need more nutrients
 - Lastly and most importantly, in the fMRI images we can see the difference in levels of oxygenation of blood due to biochemistry and physics that are too complicated for this
-- We can use these images to see what parts of the brain are active at certain times during the scan (indirectly using the signal from the blood flow, or BOLD signal)
-- 
-
+- We can use these images to see what parts of the brain are active at certain times during the scan (indirectly using the signal from the blood flow, or BOLD signal) 
+------------------------------
 fMRI works almost the same as structural MRI, but has two key differences:
 
 1. Images are taken more frequently to improve temporal resolution
-   - (so instead of an image taken every minute, an image would be taken every couple of seconds).
+   - So instead of an image taken every minute, an image would be taken every couple of seconds
 2. There is lower spatial resolution
 
 Temporal and spatial resolution both sit on one end of a sliding scale, and typically improving one will hurt the other. This is something that is changed based on goals and methods of the study being conducted.
