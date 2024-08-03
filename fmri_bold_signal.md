@@ -12,12 +12,17 @@ Now that you are all at least semi-pros on how MRI physics work, we can now go f
 - These molecules are transported through the blood and our bodies are smart, so to solve this problem, blood flow will be redirected to brain regions that need more nutrients
 - Lastly and most importantly, in the fMRI images we can see the difference in levels of oxygenation of blood due to biochemistry and physics that are too complicated for this
 - We can use these images to see what parts of the brain are active at certain times during the scan (indirectly using the signal from the blood flow, or BOLD signal) 
-------------------------------
-fMRI works almost the same as structural MRI, but has two key differences:
-1. Images are taken more frequently to improve temporal resolution
-   - So instead of an image taken every minute, an image would be taken every couple of seconds
-2. There is lower spatial resolution
 
+
+fMRI works almost the same as structural MRI, but has two key differences:
+1. Higher temporal resolution (images are taken more frequently)
+      - Instead of one high resolution image being taken over several minutes like a structural MRI, functional MRI takes several lower resolution MRI scans every couple of seconds
+      - Typically in the range of 1.25-3.5 seconds (but can be outside of this) and depends on the image acquisition parameters
+2. There is lower spatial resolution (larger voxel sizes, worse SNR)
+      - With a lower TR, typically comes lower resolution images
+      - Lower spatial resolution isn't "bad" spatial resolution, but it can be a limiting factor for some theories
+
+, number of slices, voxel size, and SNR
 Temporal and spatial resolution both sit on one end of a sliding scale, and typically improving one will hurt the other. This is something that is changed based on goals and methods of the study being conducted.
 
    
