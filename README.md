@@ -6,7 +6,7 @@ A complete course to learn both practical skills and theory involved in fMRI res
 
 *With contributions from Cory McCabe*
 
-## What Even Is This Course?
+## What Is This Course?
 
 I am creating this “course” for someone new to/interested in this field to be able to both:
   1. Gain **practical skills** to use for research
@@ -14,15 +14,15 @@ I am creating this “course” for someone new to/interested in this field to b
 
 I have not been involved much in data acquisition, so sadly, *no information on data acquisition is included*. Instead, this is more focused on the **data management, processing, and analysis** side to provide information on everything to do once the data is on a server. 
 
-## Do I Have What it Takes?
+## What You Should Know
 ***(The answer is yes, you all do)***
 
 
-If you have made it this far, congratulations on getting through the hardest part - starting! For this course, I am going to assume you have some *basic*, and I mean very basic, knowledge of anatomy and statistics(probably high school level, but there's some very impressive high schools out there so I don't know how much this will help). If you feel that you do not fit in this category, *do not worry!* You can easily teach yourself whatever information you feel you are missing as you go through each module. The internet in 2024 is a goldmine of free knowledge, just a goldmine that has several obstacles in the way of the gold and lot’s of fools gold mixed in. That’s why this guide sticks to reputable sources and makes your life less stressful.
+If you have made it this far, congratulations on getting through the hardest part - starting! For this course, I am going to assume you have some *basic*, and I mean very basic, knowledge of anatomy and statistics(probably high school level, but there's some very impressive high schools out there so I don't know how much this will help). If you feel that you do not fit in this category, ***do not worry!*** You can easily teach yourself whatever information you feel you are missing as you go through each module. The internet in 2024 is a goldmine of free knowledge, just a goldmine that has several obstacles in the way of the gold and lot’s of fools gold mixed in. That’s why this guide sticks to reputable sources and makes your life less stressful.
 
 ## Overview
 
-This "course" is split into both theory and practical knowledge. You *do not* need to go through all the theory to understand the majority of the practical knowledge/skills, **but** in the practical knowledge I will use terminology introduced in the theory material (it is written expecting the reader to know the terms, or can look up the terms and learn as they go - which you should all be able to do). 
+This "course" is split into both theory and practical knowledge. You *do not* need to go through all the theory to understand the majority of the practical knowledge/skills, ***but*** in the practical knowledge I will use terminology introduced in the theory material (it is written expecting you, the reader, to know the terms *or* look up the terms and teach yourself as you go (which you can all do, there's nothing too mind bending in this introductory course). 
 
 For each section, you should go through each page in order for the best experience, but if you are already an expert in a certain topic, you don't waste your time reviewing the basics. 
 
