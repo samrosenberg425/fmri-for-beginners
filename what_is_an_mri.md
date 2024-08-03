@@ -20,7 +20,11 @@ MRI is a very useful imaging modality since it *does* ***not*** *expose the subj
       - MRI's are 3D images that use **voxels** instead of pixels.
           - *Voxels* are just 3-dimensional pixels. They are the tiny cubes that each have a measured intensity from the scan, and therefore show up in the image with that intensity. 
 
-While MRI is a very versatile tool for imaging, some other important imaging methods such as **EEG**, **MEG**, and **PET** scans are also used and each has their own pros and cons. As you continue to learn, you will see that some imaging methods are better suited for some types of studies. [This graphic](https://www.researchgate.net/profile/Carolina-Mendez-Orellana/publication/295856844/figure/tbl1/AS:679900230987777@1539112255261/Advantages-and-disadvantages-of-functional-neuroimaging-techniques.png) gives a good comparison of the pros/cons of the most common neuroimaging modalities. 
+While MRI is a very versatile tool for imaging, some other important imaging methods such as **EEG**, **MEG**, and **PET** scans are also used and each has their own pros and cons(as previewed in the graphic *below*). As you continue to learn, you will see that some imaging methods are better suited for some types of studies. 
+
+![Pro Con List of imaging methdos](docs/assets/images/imagingprocon.png)
+
+
 
 
 
