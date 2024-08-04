@@ -1,4 +1,4 @@
-# How an MRI works
+# What is an MRI and how does it work?
 
 MRI stands for **Magnetic Resonance Imaging**, which probably doesn't mean much to you now but will by the end of this module! 
 
@@ -24,9 +24,10 @@ While MRI is a very versatile tool for imaging, some other important imaging met
 
 ![Pro Con List of imaging methdos](docs/assets/images/imagingprocon.png)
 
+Image from:
 
-
-
+Mendez Orellana, Carolina. (2015). Functional MRI of Language Processing and Recovery. 
+https://www.researchgate.net/publication/295856844_Functional_MRI_of_Language_Processing_and_Recovery. 
 
 <div style="text-align: left; margin-top: 10px;">
   <a href="fmri_bold_signal.html">Next Page (fMRI/The BOLD Signal)</a>
