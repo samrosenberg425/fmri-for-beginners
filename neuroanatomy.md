@@ -6,7 +6,7 @@ If you already have a strong footing in neuroanatomy, you can skip this part. Wh
 
 Otherwise, you have a couple options:
 - If starting with no knowledge of neuroanatomy, you should go through this [Lumen Learning course](https://courses.lumenlearning.com/): It has some interactive activities you can do and is one of the least scary introductions to neuroanatomy.
-  1. [Introduction to parts of the brain](h[ttps://courses.lumenlearning.com/introduction-to-parts-of-the-brain](https://courses.lumenlearning.com/waymaker-psychology/chapter/outcome-parts-of-the-brain/v))
+  1. [Introduction to parts of the brain](https://courses.lumenlearning.com/waymaker-psychology/chapter/outcome-parts-of-the-brain/)
      - Note: You can move through all of these (except the last three lessons) by clicking “Next” at the bottom of each page. I just provided all of the links so that you can pick and choose without having to click through everything.
   2. [Brain Hemispheres](https://courses.lumenlearning.com/waymaker-psychology/chapter/the-brain-and-spinal-cord/)
   3. [Lobes of the Brain](https://courses.lumenlearning.com/waymaker-psychology/chapter/reading-parts-of-the-brain/)
