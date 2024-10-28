@@ -17,7 +17,7 @@ Below, the most important topics are listed. Dr. Jamil Palacios Bhanji from Rutg
 - [Activity #5 - Associations between variables - correlation](https://jamilfelipe.github.io/psych596/activities/contin-correl/r_docs/contin-correl-instructions-r.html)
 #### <u> The Linear Model(Regression) </u>
 - [Activity #6 - Associations between variables - regression](https://jamilfelipe.github.io/psych596/activities/multi-regression/r_docs/multi-regression-instructions-r.html)
-#### <u> T-tests(Chapter 10)  </u>
+#### <u> T-tests  </u>
 - [Activity #8 - Comparison between two groups](https://jamilfelipe.github.io/psych596/activities/two-group/r_docs/two-group-instructions-r.html)
 #### <u> Multilevel Linear Models </u>
 - [Activity #12 - Mixed effects and trial-level analysis](https://jamilfelipe.github.io/psych596/activities/mixed-fx/r_docs/mixed-fx-instructions-r.html)
