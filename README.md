@@ -31,7 +31,7 @@ For each section, you should go through each page in order for the best experien
 4. **Theory Modules 4+5+6** *(How we analyze the data and a neuroanatomy intro)*
 5. **Practical Knowledge Modules 7+8** *(Running fMRI analysis and more advanced skills, aka coding)*
 
-Theory and application are both useful skills, but each theory has no use if it can't applied and skills have no use if one doesn't know what they're doing. By going through both sections at the same time as I have outlined above, it will allow you to better see how theory and application connect to each other(which isn't always as intuitive as it seems).
+Theory and application are both useful skills, but each theory has no use if it can't be applied and each skill has no use if one does not know what to do with it. By going through both sections at the same time as I have outlined above, it will allow you to better see how theory and application connect to each other(which isn't always as intuitive as it seems).
 
 ## Course Pages
 
