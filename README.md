@@ -17,7 +17,7 @@ I have not been involved much in data acquisition, so sadly, *no information on 
 ## What You Should Know
 
 If you have made it this far, congratulations on getting through the hardest part - starting! For this course, I am going to assume you have some *basic*, and I mean very basic, knowledge of anatomy and statistics(probably high school level, but there's some very impressive high schools out there so I don't know how much this will help). If you feel that you do not fit in this category, ***do not worry!*** You can easily teach yourself whatever information you feel you are missing as you go through each module. The internet in 2024 is a goldmine of free knowledge, just a goldmine that has several obstacles in the way of the gold and lot’s of fools gold mixed in. That’s why this guide sticks to reputable sources and makes your life less stressful.
-
+ 
 ## Overview
 
 This "course" is split into both theory and practical knowledge. You *do not* need to go through all the theory to understand the majority of the practical knowledge/skills, ***but*** in the practical knowledge I will use terminology introduced in the theory material (it is written expecting you, the reader, to know the terms *or* look up the terms and teach yourself as you go (which you can all do, there's nothing too mind bending in this introductory course). 
